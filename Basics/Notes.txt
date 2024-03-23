@@ -1,0 +1,1 @@
+Hot reload -> No needs to reload when the file is saved the live server will auto reload
